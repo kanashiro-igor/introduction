@@ -1,7 +1,13 @@
+- 👋 Ola, eu sou @kanashiro-igor
+- 👀 Estou interessado em participar de projetos, desafios e novas experiencias em desenvolvimento.
+- 🌱 Estou aprendendo e estudando constantemente, sempre querendo saber mais e mais sobre programacao.
+- 💞️ Estou disposto a colaborar em projetos a fim de ganhar mais experiancie como um novo desenvolvedor.
+- 📫 Me contate atraves de -> kanashiro.igor@gmail.com
+
 - 👋 Hi, I’m @kanashiro-igor
-- 👀 I’m interested in programming projects, challenges, experiences...
-- 🌱 I’m currently learning php, c, c++, java and I`d love to learn everything I can when it comes to programming...
-- 💞️ I’m looking to collaborate on any projects, anything related to programming and software engineering...
+- 👀 I’m interested in participating on projects, challenges and new programming experiences.
+- 🌱 I’m constantly learning and studying, always wanting to learn more and more when it comes to programming.
+- 💞️ I’m looking to collaborate on projects in order to increase my experience as a new developer.
 - 📫 How to reach me -> kanashiro.igor@gmail.com
 
 <!---
