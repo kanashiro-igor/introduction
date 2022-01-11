@@ -3,7 +3,7 @@
 - 🌱 Estou aprendendo e estudando constantemente, sempre querendo saber mais e mais sobre programacao.
 - 💞️ Estou disposto a colaborar em projetos a fim de ganhar mais experiancie como um novo desenvolvedor.
 - 📫 Me contate atraves de -> kanashiro.igor@gmail.com
-
+----------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m @kanashiro-igor
 - 👀 I’m interested in participating on projects, challenges and new programming experiences.
 - 🌱 I’m constantly learning and studying, always wanting to learn more and more when it comes to programming.
