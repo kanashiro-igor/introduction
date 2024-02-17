@@ -9,6 +9,10 @@
 - 🌱 I’m always learning, wanting to learn more about programming and software developement.
 - 💞️ I'll be posting new projects in order to show my experience as a new developer.
 - 📫 How to reach me -> kanashiro.igor@gmail.com
+----------------------------------------------------------------------------------------------------------------
+![Static Badge](https://img.shields.io/badge/SKILLS-blue)
+
+![Static Badge](https://img.shields.io/badge/HTML-green) ![Static Badge](https://img.shields.io/badge/CSS-green) ![Static Badge](https://img.shields.io/badge/Java-green)
 
 <!---
 kanashiro-igor/kanashiro-igor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
