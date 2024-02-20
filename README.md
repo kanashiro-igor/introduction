@@ -12,7 +12,7 @@
 ----------------------------------------------------------------------------------------------------------------
 ![Static Badge](https://img.shields.io/badge/SKILLS-blue)
 
-![Static Badge](https://img.shields.io/badge/HTML-green) ![Static Badge](https://img.shields.io/badge/CSS-green) ![Static Badge](https://img.shields.io/badge/Java-green)
+![Static Badge](https://img.shields.io/badge/HTML-green) ![Static Badge](https://img.shields.io/badge/CSS-green) ![Static Badge](https://img.shields.io/badge/Java-green) ![Static Badge](https://img.shields.io/badge/SQL-green)
 
 <!---
 kanashiro-igor/kanashiro-igor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
