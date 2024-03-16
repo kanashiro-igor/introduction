@@ -6,7 +6,7 @@
 ----------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m @kanashiro-igor
 - 👀 I’m interested in working with software development, create new projects, participate in challenges and new programming experiences.
-- 🌱 I’m always learning, wanting to learn more about programming and software developement.
+- 🌱 I’m always learning, wanting to learn more about programming and software development.
 - 💞️ I'll be posting new projects in order to show my experience as a new developer.
 - 📫 How to reach me -> kanashiro.igor@gmail.com
 ----------------------------------------------------------------------------------------------------------------
